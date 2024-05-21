@@ -48,9 +48,6 @@ python chatbot.py
    - User: "Can you recommend me some books like The Great Gatsby?"
    - Chatbot: "Önerebileceğim benzer kitaplar [Book 1], [Book 2], [Book 3]"
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contributing
 
