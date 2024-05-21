@@ -21,14 +21,6 @@ pip install spacy fuzzywuzzy pandas nltk scikit-learn
 python -m spacy download en_core_web_sm
 ```
 
-## Usage
-
-1. **Prepare the Dataset**: Ensure you have a CSV file named `duzeltilmisdftocsv.csv` with the book data, including columns for book titles and descriptions.
-2. **Run the Chatbot**: Execute the Python script to start the chatbot interface.
-
-```bash
-python chatbot.py
-```
 
 ## Code Overview
 
