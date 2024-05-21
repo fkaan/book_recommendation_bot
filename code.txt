@@ -15,7 +15,7 @@ nltk.download('punkt')
 books_df = pd.read_csv("duzeltilmisdftocsv.csv")
 
 #print(books_df.columns)
-
+#keywords 
 def classify_intent(user_input):
     summary_keywords = ["summary", "summarize", "özet"]
     recommend_keywords = ["recommend", "suggest", "öner", "tavsiye"]
